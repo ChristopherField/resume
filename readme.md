@@ -19,7 +19,7 @@ podman run -v "$(pwd):/data" localhost/pandoc-weasy weasyprint /data/ChrisFieldR
 ## convert to doc
 
 ```
-podman run -v "$(pwd):/data" localhost/pandoc-weasy ChrisFieldResume_2025_Markdown.md -f gfm -o ChrisFieldResume_2025_Markdown.docx
+podman run -v "$(pwd):/data:U" localhost/pandoc-weasy pandoc ChrisFieldResume_2025_Markdown.md -f gfm -o ChrisFieldResume_2025_Markdown.docx
 ```
 
 ## TODO
