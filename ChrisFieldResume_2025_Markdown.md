@@ -1,5 +1,5 @@
 # Chris Field
-Clayton, NC • christopher.field79@gmail.com • (973) 896-1919
+Clayton, NC • christopher.field79@gmail.com • (973) 896-1919  
 LinkedIn: https://www.linkedin.com/in/chris-field-805a635/
 
 ---
@@ -56,9 +56,10 @@ Worked on systems powering website content storage, editing, and rendering, cont
 - Collaborated across teams to deliver features spanning backend services, data storage, and template rendering systems
 - Contributed to stabilizing and evolving a large legacy codebase while enabling incremental modernization
 
-**Tech:** Java, MongoDB, REST API, GCS, JSON, Kafka
+**Tech:** Java, MongoDB, REST API, GCS, JSON, Kafka, Kubernetes
 
 ---
+
 ### Yodle (Web.com) — Senior Software Engineer (Senior post 4/2014)
 New York, NY • Jan 2013–Oct 2017
 
@@ -93,7 +94,6 @@ Software Engineer / Database Developer — BlackRock, LGI Network, NRT Inc.
 
 ## EDUCATION
 
-NJIT — M.S. Computer Science - 4.0 GPA
-
-Rutgers Newark/NJIT — B.A. Computer Science (Mathematics Minor) - 3.96 GPA
+NJIT — M.S. Computer Science - 4.0 GPA  
+Rutgers Newark/NJIT — B.A. Computer Science (Mathematics Minor) - 3.96 GPA  
 Member of Phi Beta Kappa and Golden Key National Honor Society
